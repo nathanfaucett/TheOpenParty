@@ -1,30 +1,15 @@
-## Principles
-
-The Open Party is built on a guiding principle supported by three
-pillars, a simple moral code, and a time tested process.
-
-We'll explain each one in depth in short summaries which follow, but fundamentally we
-are a party driven by the scientific process dedicated to openness of mind and a moral code
-that optimizes for human well-being.
-
 #### The Main Idea : Making the world of tomorrow better today
 
-The main guiding principle of the party is that in order for us to progress as a society,
+The guiding principle of the party is that in order for us to progress as a society,
 the world we leave behind today must be a little better than the world of yesterday.
 Of course we will always experience setbacks as a society, but the general methods we use must guarantee that in
 the long-term our moral codes, technology, productivity, and environment are steadily increasing in relation to time.
 
-If we can achieve this not too meager aim. Then we can guarantee that the society our children
-live in will be better than our own, and the society of our children's children even better than that of their parents.
+If we can achieve this then we can guarantee that the society our children live in will be better than our own, and the society of our children's children will be even better than that of their parents.
 
-But the problem is, we can't do this if we as a society refuse to communicate with one another, if we accumulate more and more debt, if we create more legislation that patches problems and doesn't solve them in a future oriented long-term way, or if we allow our political systems to be corrupted by biases built-in over time.
+We can not do this if as a society we refuse to communicate with one another, if we accumulate more and more debt, if we create more legislation that patches problems but does not solve them in a future oriented long-term way, or if we allow our political systems to be corrupted by biases built-in over time.
 
-These are the very real problems we face.  
-
-In essence, we are a party concerned not with the short term but with the long term, not with necessarily the
-well-being of our own lives but with that of the generations to come.
-
-This is the gently guiding idea behind many of our policies and decisions.
+In essence, we are a party concerned not with the short term but with the long term.
 
 
 #### The Moral Code
@@ -85,3 +70,10 @@ For instance, every policy we choose to implement should be tested on a regular 
 It is this process, which will allow us to make hypotheses about social welfare systems, test them, and iteratively arrive at systems that improve over the course of time.
 
 In order to do this, to improve our moral, political, and societal structures over time, we cannot tie ourselves to any particular political ideology such as conservatism, social liberalism, environmentalism, or any such -ism, but actively choose to guide ourselves by the scientific process and a simple moral code.  
+
+## Principles
+
+The Open Party is built on these three pillars, a simple moral code, and a time tested process.
+
+Fundamentally we are a party driven by a scientific process dedicated to openness of mind and a moral code
+that optimizes for human well-being.
